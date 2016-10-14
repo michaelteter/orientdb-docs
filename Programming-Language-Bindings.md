@@ -253,8 +253,8 @@ This is the list of the known drivers to use OrientDB through different language
 This is the list of the library to use OrientDB by using such standard:
 
 <a href="http://www.tinkerpop.com"><img src="http://www.tinkerpop.com/images/tinkerpop-splash.png" /></a>
-### TinkerPop Blueprints
-[TinkerPop Blueprints](https://github.com/tinkerpop/blueprints/wiki), the standard for Graph Databases. OrientDB is 100% compliant with the latest version.
+### Apache TinkerPop
+[TinkerPop](https://tinkerpop.apache.org), the standard for Graph Databases. OrientDB is 100% compliant with the latest version.
 
 All the trademarks are property of their legal owners.
 
