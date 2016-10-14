@@ -1,5 +1,5 @@
 <!-- proofread 2015-12-11 SAM -->
-# Import form JSON
+# Import from JSON
 
 If you are migrating from MongoDB or any other DBMS that exports data in JSON format, the [JSON extractor](Extractor.md#json) is what you need. For more information look also at: [Import-from-PARSE](Import-from-PARSE.md).
 
@@ -83,7 +83,7 @@ Note also the setting
       "standardElementConstraints": false,
 ```
 
-This is needed, in order to allow importing the property "id" in the OrientDB Loader. Without this option, the Blueprints standard would reject it, because "id" is a reserved name.
+This is needed to allow importing the property "id" in the OrientDB Loader. Without this option, the Blueprints standard would reject it because "id" is a reserved name.
 
 By executing the ETL process, this is the output:
 
